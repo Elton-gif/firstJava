@@ -17,8 +17,8 @@ class triangle{
         hold = s*((s-a)*(s-b)*(s-c));
         area = Math.sqrt(hold);
 
-        System.out.println("Cheptoo ndio hii area --->"+ area);
-        System.out.println("Cheptoo ndio hii perimeter  --->"+ perimeter);
+        System.out.println(" area --->"+ area);
+        System.out.println("perimeter  --->"+ perimeter);
       
 
     }
